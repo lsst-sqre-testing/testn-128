@@ -1,7 +1,7 @@
 .. image:: https://img.shields.io/badge/testn--128-lsst.io-brightgreen.svg
    :target: https://testn-128.lsst.io
-.. image:: https://github.com/lsst-sqre-testing/testn-128/workflows/CI/badge.svg
-   :target: https://github.com/lsst-sqre-testing/testn-128/actions/
+.. image:: https://github.com/lsst-sqre-testing/testn-128/actions/workflows/ci.yaml/badge.svg
+   :target: https://github.com/lsst-sqre-testing/testn-128/actions/workflows/ci.yaml
 
 #############################
 New reStructuredText technote
